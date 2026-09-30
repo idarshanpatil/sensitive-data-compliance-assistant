@@ -1,4 +1,3 @@
-https://sensitive-data-detection-compliance-assistant-nj6uszmnushegfiw.streamlit.app/
 # 🛡️ Sensitive Data Detection & Compliance Assistant
 
 An AI-powered Streamlit application that detects sensitive information in documents, masks confidential data, classifies potential risks, and provides AI-generated compliance summaries and document-based Q&A.
